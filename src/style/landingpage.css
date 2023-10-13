@@ -1,0 +1,19 @@
+.style1 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 150px;
+  background: orange;
+}
+
+.BG {
+  background-color: #ffffff;
+}
+
+.table1 {
+  border: none;
+  color: orange;
+}
